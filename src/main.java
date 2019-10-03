@@ -14,6 +14,7 @@ public class main {
             InetAddress addr = InetAddress.getByName("10.2.8.162");
             String s;
             do {
+                /*HIHI*/
                 BufferedReader keyin;
                 keyin = new BufferedReader(new InputStreamReader(System.in));
                 System.out.print("輸入字串：");
